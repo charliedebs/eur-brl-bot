@@ -1,0 +1,2 @@
+﻿# Normalise les fins de ligne pour éviter les warnings CRLF/LF
+* text=auto eol=lf
