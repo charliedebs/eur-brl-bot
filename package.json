@@ -1,9 +1,11 @@
 ﻿{
-  "name": "eur-brl-bot",
-  "version": "0.0.1",
-  "type": "commonjs",
-  "scripts": {
-    "test:smoke": "node test/smoke.js"
-  },
-  "dependencies": {}
+    "name":  "eur-brl-bot",
+    "version":  "0.0.1",
+    "type":  "commonjs",
+    "scripts":  {
+                    "test:smoke":  "node test/smoke.js"
+                },
+    "dependencies":  {
+
+                     }
 }
